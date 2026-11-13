@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dragoș Pet</string>
+    <string name="room_living">Living</string>
+    <string name="room_kitchen">Kitchen</string>
+    <string name="room_playroom">Play</string>
+    <string name="room_bedroom">Sleep</string>
+    <string name="stat_happiness">Happy</string>
+    <string name="stat_hunger">Food</string>
+    <string name="stat_energy">Energy</string>
+    <string name="stat_freshness">Fresh</string>
+    <string name="talk_prompt">Tap mic to talk to Dragoș!</string>
+    <string name="listening_prompt">Dragoș is listening…</string>
+    <string name="repeating_prompt">Dragoș is talking!</string>
+    <string name="mic_permission_needed">Mic permission lets Dragoș repeat your voice!</string>
+    <string name="allow_mic">Allow Mic</string>
+    <string name="lights_on">Lights On</string>
+    <string name="lights_off">Lights Off</string>
+    <string name="wash_up">Wash Up</string>
+    <string name="play_minigame">Soccer Keepy-Uppy</string>
+</resources>

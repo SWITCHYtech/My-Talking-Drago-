@@ -1,0 +1,6 @@
+{
+  "name": "Dragoș Pet",
+  "description": "An interactive Talking Tom-inspired virtual pet game featuring Dragoș with animations, feeding, mini-games, and voice mimicry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
